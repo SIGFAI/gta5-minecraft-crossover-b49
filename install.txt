@@ -1,0 +1,1 @@
+Install Fabric for Minecraft Java and put the mod jar in its mods folder, then add the GTA V plugin (MCPassthrough.asi) next to GTA5.exe with ScriptHookV. Start both games offline (GTA story mode), and Steve flies off the Maze Bank roof by himself.

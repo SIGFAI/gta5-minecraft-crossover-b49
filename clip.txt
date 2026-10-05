@@ -1,0 +1,6 @@
+Scene 7: Elytra flight over Los Santos (20 s, gen/scene7.mp4)
+[x] 1. Steve on the Maze Bank roof, big Minecraft title, he runs off the edge and the elytra opens
+[x] 2. He glides between the towers through gold and glowstone rings; each ring fires a rocket boost and a GTA firework burst
+[x] 3. He dives over Legion Square into the avenue, GTA traffic and pedestrians below
+[x] 4. Low pass through a ring over the street, then he climbs out over the skyline
+Interactions: Minecraft rockets and rings trigger GTA fireworks and explosions; Minecraft blocks stand in GTA's sky; GTA traffic is spawned for the street run.
